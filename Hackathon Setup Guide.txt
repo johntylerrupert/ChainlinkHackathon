@@ -1,0 +1,27 @@
+Hackathon Setup
+
+Software:
+
+Docker
+	1. Download and install Docker Desktop from https://www.docker.com/products/docker-desktop
+VS Code
+	1. Download/install from https://code.visualstudio.com/
+Python
+	1. Download/install from https://www.python.org/downloads/
+	2. If you already have Python but it's an early version than 3.9.2, go ahead and download the latest version and it will just ask if you want to update iot
+Metamask
+	1. Add to browser from https://metamask.io/
+Git
+	1. Download/install from https://git-scm.com/
+	2. You'll probably want everything it offers - at the very least get Git Bash and Git for Windows
+	
+
+
+Setup:
+
+Brownie - More info here https://eth-brownie.readthedocs.io/en/stable/install.html
+	1. Open Git Bash
+	2. Run "pip install eth-brownie"
+
+GitHub - Let's chat about this in Discord
+	
